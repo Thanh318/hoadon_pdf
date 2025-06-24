@@ -1,9 +1,68 @@
 {
-  "mst": ["mã số thuế", "mst", "tax code", "tax no", "mã số thuế bên bán", "bên bán mst"],
-  "seller": ["đơn vị bán hàng", "bên bán", "tên đơn vị bán hàng", "supplier", "người bán hàng", "tên người bán"],
-  "invoice_series": ["ký hiệu mẫu số hóa đơn", "mẫu số", "invoice form", "invoice template"],
-  "invoice_no": ["số hóa đơn", "invoice no", "shđ"],
-  "invoice_date": ["ngày hóa đơn", "ngày lập hóa đơn", "invoice date", "ngày lập hđ", "ngày xuất"],
-  "total_amount": ["tổng cộng tiền thanh toán", "tổng tiền thanh toán", "total amount", "tổng tiền"]
+  "mst": [
+    "mã số thuế",
+    "mst",
+    "tax code",
+    "tax no",
+    "mã số thuế bên bán",
+    "mã số thuế người bán",
+    "bên bán mst",
+    "mã số thuế (tax code)",
+    "mst bên bán"
+  ],
+  "seller": [
+    "đơn vị bán hàng",
+    "bên bán",
+    "tên đơn vị bán hàng",
+    "supplier",
+    "người bán hàng",
+    "tên người bán",
+    "seller",
+    "đơn vị phát hành hóa đơn",
+    "bên phát hành",
+    "bên phát hành hóa đơn",
+    "bên lập hóa đơn",
+    "người lập hóa đơn"
+  ],
+  "invoice_series": [
+    "ký hiệu mẫu số hóa đơn",
+    "ký hiệu hóa đơn",
+    "invoice form",
+    "invoice template",
+    "form no",
+    "form number",
+    "template code"
+  ],
+  "invoice_no": [
+    "số hóa đơn",
+    "shđ",
+    "invoice no",
+    "invoice number",
+    "no hóa đơn",
+    "số hđ",
+    "số bill",
+    "invoice id"
+  ],
+  "invoice_date": [
+    "ngày hóa đơn",
+    "ngày lập hóa đơn",
+    "invoice date",
+    "ngày lập hđ",
+    "ngày xuất",
+    "ngày bill",
+    "invoice issued date",
+    "ngày lập"
+  ],
+  "total_amount": [
+    "tổng cộng tiền thanh toán",
+    "tổng tiền thanh toán",
+    "total amount",
+    "tổng tiền",
+    "amount due",
+    "tổng cộng",
+    "total payment",
+    "tổng số tiền thanh toán",
+    "total payable",
+    "total invoice amount"
+  ]
 }
-
