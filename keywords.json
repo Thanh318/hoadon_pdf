@@ -1,0 +1,9 @@
+{
+  "mst": ["mã số thuế", "mst", "tax code", "tax no", "mã số thuế bên bán", "bên bán mst"],
+  "seller": ["đơn vị bán hàng", "bên bán", "tên đơn vị bán hàng", "supplier", "người bán hàng", "tên người bán"],
+  "invoice_series": ["ký hiệu mẫu số hóa đơn", "mẫu số", "invoice form", "invoice template"],
+  "invoice_no": ["số hóa đơn", "invoice no", "shđ"],
+  "invoice_date": ["ngày hóa đơn", "ngày lập hóa đơn", "invoice date", "ngày lập hđ", "ngày xuất"],
+  "total_amount": ["tổng cộng tiền thanh toán", "tổng tiền thanh toán", "total amount", "tổng tiền"]
+}
+
